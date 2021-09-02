@@ -18,6 +18,7 @@ For authorizing private channels [Laravel Sanctum](https://laravel.com/docs/sanc
 2. `composer install`
 3. `php artisan migrate`
 
+<img width="600" alt="Screenshot" src="https://user-images.githubusercontent.com/7093483/131797718-797c273d-4b87-41a4-8447-ea2c2769a40b.png">
 
 ## [Pusher](https://pusher.com/)
 
